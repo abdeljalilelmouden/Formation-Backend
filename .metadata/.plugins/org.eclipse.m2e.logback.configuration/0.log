@@ -1,0 +1,24 @@
+2020-08-20 11:26:02,706 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-20 11:32:19,033 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-FORMATION:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\pom.xml.
+2020-08-20 11:32:33,951 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-FORMATION/src/main/java
+2020-08-20 11:32:33,952 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-FORMATION/src/main/resources
+2020-08-20 11:32:33,978 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-FORMATION/src/main/resources
+2020-08-20 11:32:34,016 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-FORMATION/src/test/java
+2020-08-20 11:32:40,931 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 35 sec
+2020-08-20 11:32:40,945 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-20 11:32:43,865 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-FORMATION:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\pom.xml.
+2020-08-20 11:32:47,512 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-FORMATION/src/main/java
+2020-08-20 11:32:47,513 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-FORMATION/src/main/resources
+2020-08-20 11:32:47,515 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-FORMATION/src/main/resources
+2020-08-20 11:32:47,519 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-FORMATION/src/test/java
+2020-08-20 11:32:49,872 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2020-08-20 11:32:54,642 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-20 11:32:54,653 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-20 11:32:54,689 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-20 11:32:54,697 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-20 11:32:54,697 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
+2020-08-20 11:35:52,095 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-20 11:35:52,115 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-20 11:35:52,126 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-20 11:35:52,136 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-20 11:35:52,137 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
