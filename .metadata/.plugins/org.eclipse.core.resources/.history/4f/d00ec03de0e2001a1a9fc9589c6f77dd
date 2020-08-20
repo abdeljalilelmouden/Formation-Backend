@@ -1,0 +1,5 @@
+package com.application.api.entity;
+
+public class FormationEntity {
+
+}

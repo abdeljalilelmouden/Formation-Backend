@@ -1,0 +1,5 @@
+package com.application.api.repository;
+
+public interface FormationRepository {
+
+}

@@ -1,0 +1,37 @@
+package com.application.api.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.application.api.entity.FormationEntity;
+import com.application.api.service.impl.IFormationService;
+
+/**
+ * @class FormationController
+ * @author ABDELJALIL EL MOUDEN
+ * @creation 20/08/2020
+ * @version 1.0.0
+ * @see elmoudene123@gmail.com
+ * 
+ * */
+
+@RestController
+public class FormationController {
+	
+	@Autowired
+	private IFormationService formationService;
+	
+	
+	/**
+	 * @return  All Formation
+	 * @param 
+	 */
+	@GetMapping(value = "/v0")
+	public List<FormationEntity> getAllFormation(){
+		return formationService.getAllFormations()
+	}
+
+}
