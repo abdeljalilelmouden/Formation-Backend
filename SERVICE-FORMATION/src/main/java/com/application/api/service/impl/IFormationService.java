@@ -60,7 +60,7 @@ public class IFormationService implements FormationService{
 		if(logger.isInfoEnabled()) {
 			logger.info("=== gat formation by id ===");
 		}
-		return formationRepository.getOne(idFormation);
+		return formationRepository.findById(idFormation).get();
 	}
 	/**
 	 * @return  Delete Formation

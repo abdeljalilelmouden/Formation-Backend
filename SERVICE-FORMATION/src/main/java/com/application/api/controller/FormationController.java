@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.application.api.dto.FormationDto;
 import com.application.api.entity.FormationEntity;
 import com.application.api.service.impl.IFormationService;
  
@@ -41,12 +42,12 @@ public class FormationController {
 	 * @param 
 	 */
 	@GetMapping(value = "/v0")
-	public List<FormationEntity> getAllFormation(){
+	public List<FormationDto> getAllFormation(){
 		
 		if(logger.isInfoEnabled()) {
 			logger.info("get All Formation");
 		}
-		return formationService.getAllFormations();
+		return FormationDto.entitiesToDtos(formationService.getAllFormations());
 	}
 	
 	/**
@@ -55,12 +56,12 @@ public class FormationController {
 	 * @throws Exception 
 	 */
 	@GetMapping(value = "/v0/{idFormation}")
-	public FormationEntity getFormationById(@PathVariable long idFormation){
+	public FormationDto getFormationById(@PathVariable(name = "idFormation") Long idFormation){
 		
 		if(logger.isInfoEnabled()) {
 			logger.info("get one Formation");
 		}
-		return formationService.getFormationById(idFormation);
+		return FormationDto.entityToDto(formationService.getFormationById(idFormation));
 	}
 	/**
 	 * @return  add Formation
@@ -72,7 +73,7 @@ public class FormationController {
 		if(logger.isInfoEnabled()) {
 			logger.info("Add Formation");
 		}
-		return formationService.addFormation(formationEntity);
+		return FormationDto.dtoToEntity(FormationDto.entityToDto(formationService.addFormation(formationEntity)));
 	}
 	
 	/**
@@ -98,7 +99,10 @@ public class FormationController {
 		if(logger.isInfoEnabled()) {
 			logger.info("Update Formation");
 		}
-		return formationService.updateFormation(formationEntity);
+		
+		return FormationDto.dtoToEntity(FormationDto.entityToDto(formationService.updateFormation(formationEntity)));
+		
+		
 	}
 
 	
