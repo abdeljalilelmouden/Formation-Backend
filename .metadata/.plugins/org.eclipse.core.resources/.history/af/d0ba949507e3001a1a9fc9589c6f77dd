@@ -1,0 +1,1 @@
+appender.file.layout.ConversionPatterns=[%t] %-5p %c %x - %m%n

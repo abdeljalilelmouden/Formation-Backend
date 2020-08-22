@@ -9,6 +9,8 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
 
 /**
  * @class FormationEntity
@@ -18,6 +20,7 @@ import javax.persistence.Table;
  * @see elmoudene123@gmail.com
  * 
  * */
+
 @Entity
 @Table(name = "formation")
 public class FormationEntity implements Serializable {
@@ -36,10 +39,12 @@ public class FormationEntity implements Serializable {
 	@Column(name = "description", nullable = false)
 	private String description;
 	
-	@Column(name = "date_debut", nullable = false)
+	@Column(name = "date_debut")
+	@Temporal(TemporalType.DATE)
 	private Date dateDebut;
 	
-	@Column(name = "date_fin", nullable = false)
+	@Column(name = "date_fin")
+	@Temporal(TemporalType.DATE)
 	private Date dateFin;
 	
 	@Column(name = "prix", nullable = false)

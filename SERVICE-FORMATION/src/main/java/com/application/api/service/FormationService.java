@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import com.application.api.entity.FormationEntity;
 
 /**
- * @interface FormationRepository
+ * @service "FormationService"
  * @author ABDELJALIL EL MOUDEN
  * @creation 20/08/2020
  * @version 1.0.0
@@ -15,18 +15,41 @@ import com.application.api.entity.FormationEntity;
  * 
  * */
 
-@Service
 public interface FormationService {
 	
-	
+	/**
+	 * get all formation
+	 * @param
+	 * @return
+	 */
 	public List<FormationEntity> getAllFormations();
 	
-	public FormationEntity getOneFormation(Long idFormation);
+	/**
+	 * get formation by id
+	 * @param 
+	 * @return 
+	 */
+	public FormationEntity getFormationById(Long idFormation);
 	
-	public void deteleFormation(long idFormation);
+	/**
+	 * delete formation
+	 * @param idFormation
+	 * @return 
+	 */
+	public void deteleFormation(FormationEntity entity);
 	
-	public void addFormation(FormationEntity formation);
+	/**
+	 * add formation
+	 * @param formation
+	 * @return FormationEntity
+	 */
+	public FormationEntity addFormation(FormationEntity formation);
 	
-	public void updateFormation(FormationEntity formation);
+	/**
+	 * update formation
+	 * @param formation
+	 * @return FormationEntity
+	 */
+	public FormationEntity updateFormation(FormationEntity formation);
 
 }

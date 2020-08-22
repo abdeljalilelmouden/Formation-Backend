@@ -1,0 +1,92 @@
+package com.application.api.controller;
+
+import java.util.List;
+ 
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.application.api.dto.FormationDto;
+import com.application.api.entity.FormationEntity;
+import com.application.api.service.impl.IFormationService;
+ 
+import org.apache.logging.log4j.*;
+ 
+
+/**
+ * @class FormationController
+ * @author ABDELJALIL EL MOUDEN
+ * @creation 20/08/2020
+ * @version 1.0.0
+ * @see elmoudene123@gmail.com
+ * 
+ * */
+@RequestMapping(value = "/formation")
+@RestController
+public class FormationController {
+	
+	private static final Logger logger = LogManager.getLogger(FormationController.class);	
+	
+	@Autowired
+	private IFormationService formationService;
+	
+	
+	/**
+	 * @return  Get All Formation
+	 * @param 
+	 */
+	@GetMapping(value = "/v0")
+	public List<FormationDto> getAllFormation(){
+		
+		if(logger.isInfoEnabled()) {
+			logger.info("get All Formation");
+		}
+		return FormationDto.entitysToDtos(formationService.getAllFormations());
+	}
+	
+	/**
+	 * @return  get On Formation by Id
+	 * @param idFormation
+	 */
+	@GetMapping(value = "/v0/{idFormation}")
+	public FormationDto getOneFormation(@PathVariable Long idFormation){
+		
+		if(logger.isInfoEnabled()) {
+			logger.info("get One  Formation");
+		}
+		return FormationDto.entityToDto(formationService.getOneFormation(idFormation));
+	}
+	
+	/**
+	 * @return  Add Formation 
+	 * @param formationDto
+	 */
+	@PostMapping(value = "/v0")
+	public FormationDto addFormation(@RequestBody FormationDto formationdto){
+		
+		if(logger.isInfoEnabled()) {
+			logger.info("Add Formation");
+		}
+		return FormationDto.dtoToEntity(formationService.addFormation(formationdto));
+	}
+	
+	/**
+	 * @return  Delete Formation 
+	 * @param idFormation
+	 */
+	@DeleteMapping(value = "/v0/{idFormation}")
+	public FormationDto deleteFormation(@PathVariable Long idFormation){
+		
+		if(logger.isInfoEnabled()) {
+			logger.info("Add Formation");
+		}
+		return FormationDto.dtoToEntity(formationService.addFormation(formationdto));
+	}
+
+}

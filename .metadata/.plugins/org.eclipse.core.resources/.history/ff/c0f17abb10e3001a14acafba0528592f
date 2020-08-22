@@ -1,0 +1,49 @@
+package com.application.api.controller;
+
+import java.util.List;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.application.api.entity.FormationEntity;
+import com.application.api.service.impl.IFormationService;
+ 
+ 
+
+/**
+ * @class FormationController
+ * @author ABDELJALIL EL MOUDEN
+ * @creation 20/08/2020
+ * @version 1.0.0
+ * @see elmoudene123@gmail.com
+ * 
+ * */
+@RequestMapping("/formation")
+@RestController
+public class FormationController {
+	
+	Logger logger = LogManager.getLogger(FormationController.class);	
+	
+	@Autowired
+	private IFormationService formationService;
+	
+	
+	/**
+	 * @return  All Formation
+	 * @param 
+	 */
+	@GetMapping(value = "/v0")
+	public List<FormationEntity> getAllFormation(){
+		logger.info("info Message");
+		logger.error("error Message");
+		logger.warn("warn Message");
+		logger.fatal("fatal Message");
+		return formationService.getAllFormations();
+	}
+
+}

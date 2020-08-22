@@ -2,9 +2,12 @@ package com.application.api.service.impl;
 
 import java.util.List;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.application.api.controller.FormationController;
 import com.application.api.entity.FormationEntity;
 import com.application.api.repository.FormationRepository;
 import com.application.api.service.FormationService;
@@ -21,10 +24,10 @@ import com.application.api.service.FormationService;
 @Service
 public class IFormationService implements FormationService{
 
+	private static final Logger logger = LogManager.getLogger(FormationController.class);
 	
 	@Autowired
 	private FormationRepository formationRepository;
-	
 	
 	/**
 	 * @return  All Formation
@@ -33,7 +36,17 @@ public class IFormationService implements FormationService{
 	 */
 	@Override
 	public List<FormationEntity> getAllFormations() {
-		return formationRepository.findAll();
+		
+		List<FormationEntity> formations = null;
+		try {
+			return formationRepository.findAll();
+		} catch (Exception e) {
+			logger.error(e.getMessage());
+		}
+		if(logger.isInfoEnabled()) {
+			logger.info("=== gat all formation ===");
+		}
+		return formations;
 	}
 
 	/**
@@ -42,18 +55,29 @@ public class IFormationService implements FormationService{
 	 * 
 	 */
 	@Override
-	public FormationEntity getOneFormation(Long idFormation) {
-		return formationRepository.findById(idFormation).orElse(null);
+	public FormationEntity getFormationById(Long idFormation){
+		
+		if(logger.isInfoEnabled()) {
+			logger.info("=== gat formation by id ===");
+		}
+		return formationRepository.getOne(idFormation);
 	}
-
 	/**
 	 * @return  Delete Formation
 	 * @param idFormation
 	 * 
 	 */
 	@Override
-	public void deteleFormation(long idFormation) {
-		formationRepository.deleteById(idFormation);
+	public void deteleFormation(FormationEntity formation) {
+		
+		try {
+			 formationRepository.delete(formation);
+		} catch (Exception e) {
+			logger.error(e.getMessage());
+		}
+		if(logger.isInfoEnabled()) {
+			logger.info("=== delete formation ===");
+		}
 	}
 
 	/**
@@ -62,8 +86,18 @@ public class IFormationService implements FormationService{
 	 * 
 	 */
 	@Override
-	public void addFormation(FormationEntity formation) {
-		formationRepository.save(formation);
+	public FormationEntity addFormation(FormationEntity formationEntity) {
+		 
+		FormationEntity entity = new FormationEntity();
+		try {
+			entity = formationRepository.save(formationEntity);
+		} catch (Exception e) {
+			logger.error(e.getMessage());
+		}
+		if(logger.isInfoEnabled()) {
+			logger.info("=== add formation ===");
+		}
+		return entity;
 	}
 
 	/**
@@ -72,8 +106,23 @@ public class IFormationService implements FormationService{
 	 * 
 	 */
 	@Override
-	public void updateFormation(FormationEntity formation) {
-		formationRepository.save(formation);
+	public FormationEntity updateFormation(FormationEntity formationEntity) {
+		FormationEntity entity = new FormationEntity();
+		try {
+			entity = formationRepository.save(formationEntity);
+		} catch (Exception e) {
+			logger.error(e.getMessage());
+		}
+		if(logger.isInfoEnabled()) {
+			logger.info("=== update formation ===");
+		}
+		return entity;
 	}
+
+
+
+ 
+
+ 
 
 }
