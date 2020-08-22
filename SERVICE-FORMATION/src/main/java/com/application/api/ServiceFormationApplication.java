@@ -5,11 +5,14 @@ import java.util.Date;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.context.annotation.Bean;
 
 import com.application.api.entity.FormationEntity;
 import com.application.api.repository.FormationRepository;
 
+
+@EnableEurekaClient
 @SpringBootApplication
 public class ServiceFormationApplication {
 

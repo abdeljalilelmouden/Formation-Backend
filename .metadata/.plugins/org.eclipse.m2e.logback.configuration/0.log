@@ -984,3 +984,390 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.docx4j:do
 2020-08-22 12:09:33,853 [Worker-76: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
 2020-08-22 12:12:24,794 [Worker-78: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-22 12:12:24,802 [Worker-78: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 12:12:24,812 [Worker-78: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 12:12:24,833 [Worker-78: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 12:12:24,834 [Worker-78: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
+2020-08-22 12:19:46,362 [Worker-75: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 12:19:46,365 [Worker-75: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 12:19:46,372 [Worker-75: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 12:19:46,378 [Worker-75: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 12:19:46,378 [Worker-75: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
+2020-08-22 12:23:36,595 [Worker-76: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-CONFIGURATION:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\pom.xml.
+2020-08-22 12:23:51,948 [Worker-76: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-CONFIGURATION/src/main/java
+2020-08-22 12:23:51,951 [Worker-76: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-CONFIGURATION/src/main/resources
+2020-08-22 12:23:51,990 [Worker-76: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-CONFIGURATION/src/main/resources
+2020-08-22 12:23:52,038 [Worker-76: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-CONFIGURATION/src/test/java
+2020-08-22 12:24:28,224 [Worker-76: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 72 sec
+2020-08-22 12:24:28,260 [Worker-76: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-22 12:24:31,488 [Worker-76: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-CONFIGURATION:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\pom.xml.
+2020-08-22 12:24:34,604 [Worker-76: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-CONFIGURATION/src/main/java
+2020-08-22 12:24:34,606 [Worker-76: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-CONFIGURATION/src/main/resources
+2020-08-22 12:24:34,624 [Worker-76: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-CONFIGURATION/src/main/resources
+2020-08-22 12:24:34,632 [Worker-76: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-CONFIGURATION/src/test/java
+2020-08-22 12:24:36,842 [Worker-76: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2020-08-22 13:01:16,832 [Worker-87: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 13:01:16,834 [Worker-87: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 13:01:16,837 [Worker-87: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 13:01:16,885 [Worker-87: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 13:01:16,886 [Worker-87: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 13:03:02,149 [Worker-94: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-CONFIGURATION:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\pom.xml.
+2020-08-22 13:03:03,817 [Worker-94: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 13:03:03,818 [Worker-94: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 13:03:03,819 [Worker-94: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 13:03:03,824 [Worker-94: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 13:03:03,825 [Worker-94: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 13:05:37,732 [Worker-91: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 13:05:37,739 [Worker-91: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 13:05:37,750 [Worker-91: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 13:05:37,759 [Worker-91: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 13:05:37,762 [Worker-91: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 13:08:06,430 [Worker-93: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 13:08:06,432 [Worker-93: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 13:08:06,456 [Worker-93: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 13:08:06,466 [Worker-93: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 13:08:06,466 [Worker-93: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 17:20:11,698 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-08-22 17:27:08,135 [Worker-9: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:27:08,169 [Worker-9: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 17:27:08,256 [Worker-9: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 17:27:08,274 [Worker-9: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:27:08,275 [Worker-9: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 17:27:31,118 [Worker-1: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:27:31,141 [Worker-1: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 17:27:31,153 [Worker-1: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 17:27:31,170 [Worker-1: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:27:31,171 [Worker-1: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 17:37:30,955 [Worker-15: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:37:30,962 [Worker-15: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 17:37:30,969 [Worker-15: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 17:37:30,980 [Worker-15: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:37:30,981 [Worker-15: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 17:40:07,090 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-FORMATION:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\pom.xml.
+2020-08-22 17:40:09,254 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:40:09,256 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 17:40:09,257 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 17:40:09,365 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:40:09,366 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
+2020-08-22 17:43:00,714 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-REGISTER:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-REGISTER\pom.xml.
+2020-08-22 17:43:09,916 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-REGISTER/src/main/java
+2020-08-22 17:43:09,919 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-REGISTER/src/main/resources
+2020-08-22 17:43:09,950 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-REGISTER/src/main/resources
+2020-08-22 17:43:10,012 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-REGISTER/src/test/java
+2020-08-22 17:43:42,882 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 45 sec
+2020-08-22 17:43:42,907 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-22 17:43:44,375 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-REGISTER:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-REGISTER\pom.xml.
+2020-08-22 17:43:46,697 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-REGISTER/src/main/java
+2020-08-22 17:43:46,699 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-REGISTER/src/main/resources
+2020-08-22 17:43:46,715 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-REGISTER/src/main/resources
+2020-08-22 17:43:46,753 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-REGISTER/src/test/java
+2020-08-22 17:43:48,816 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2020-08-22 17:52:40,097 [Worker-25: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:52:40,105 [Worker-25: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 17:52:40,113 [Worker-25: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 17:52:40,135 [Worker-25: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:52:40,135 [Worker-25: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
+2020-08-22 17:54:39,923 [Worker-25: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:54:39,925 [Worker-25: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 17:54:39,930 [Worker-25: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 17:54:39,943 [Worker-25: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 17:54:39,944 [Worker-25: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-REGISTER\src\test\resources
+2020-08-22 18:05:16,982 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-22 18:08:49,408 [Worker-5: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:08:49,434 [Worker-5: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:08:49,494 [Worker-5: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:08:49,502 [Worker-5: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:08:49,503 [Worker-5: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 18:10:06,005 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:10:06,008 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:10:06,129 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:10:06,139 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:10:06,139 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-REGISTER\src\test\resources
+2020-08-22 18:11:57,138 [Worker-0: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:11:57,159 [Worker-0: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:11:57,188 [Worker-0: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:11:57,214 [Worker-0: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:11:57,215 [Worker-0: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-REGISTER\src\test\resources
+2020-08-22 18:14:40,324 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-REGISTER:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-REGISTER\pom.xml.
+2020-08-22 18:14:44,335 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:14:44,336 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:14:44,337 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:14:44,342 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:14:44,343 [Worker-14: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-REGISTER\src\test\resources
+2020-08-22 18:25:09,490 [Worker-15: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:25:09,499 [Worker-15: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:25:09,509 [Worker-15: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:25:09,577 [Worker-15: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:25:09,580 [Worker-15: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 18:25:58,976 [Worker-12: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:25:58,978 [Worker-12: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:25:58,980 [Worker-12: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:25:58,997 [Worker-12: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:25:59,019 [Worker-12: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 18:28:06,810 [Worker-8: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:28:06,812 [Worker-8: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:28:06,841 [Worker-8: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:28:06,878 [Worker-8: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:28:06,879 [Worker-8: Launching ServiceConfigurationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 18:29:45,796 [Worker-12: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-REGISTER:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-REGISTER\pom.xml.
+2020-08-22 18:29:48,044 [Worker-12: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:29:48,046 [Worker-12: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:29:48,048 [Worker-12: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:29:48,059 [Worker-12: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:29:48,059 [Worker-12: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-REGISTER\src\test\resources
+2020-08-22 18:33:21,067 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:33:21,067 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:33:21,071 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:33:21,095 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:33:21,095 [Worker-15: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
+2020-08-22 18:40:17,609 [Worker-15: Build Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-FORMATION:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\pom.xml.
+2020-08-22 18:40:21,212 [Worker-15: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:40:21,216 [Worker-15: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:40:21,220 [Worker-15: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:40:21,232 [Worker-15: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:40:21,232 [Worker-15: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
+2020-08-22 18:40:43,551 [Worker-17: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:40:43,555 [Worker-17: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:40:43,559 [Worker-17: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:40:43,571 [Worker-17: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:40:43,571 [Worker-17: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
+2020-08-22 18:41:45,698 [Worker-15: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:41:45,702 [Worker-15: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:41:45,710 [Worker-15: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:41:45,718 [Worker-15: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:41:45,722 [Worker-15: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 18:42:20,384 [Worker-3: Build Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-CONFIGURATION:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\pom.xml.
+2020-08-22 18:42:23,927 [Worker-3: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:42:23,927 [Worker-3: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:42:23,927 [Worker-3: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:42:23,939 [Worker-3: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:42:23,939 [Worker-3: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 18:42:45,024 [Worker-18: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:42:45,028 [Worker-18: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:42:45,032 [Worker-18: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:42:45,044 [Worker-18: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:42:45,044 [Worker-18: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-CONFIGURATION\src\test\resources
+2020-08-22 18:45:09,432 [Worker-1: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:45:09,436 [Worker-1: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:45:09,444 [Worker-1: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:45:09,460 [Worker-1: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:45:09,460 [Worker-1: Launching ServiceRegisterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-REGISTER\src\test\resources
+2020-08-22 18:47:19,753 [Worker-1: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:47:19,757 [Worker-1: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 18:47:19,761 [Worker-1: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 18:47:19,773 [Worker-1: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 18:47:19,773 [Worker-1: Launching ServiceFormationApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-FORMATION\src\test\resources
+2020-08-22 18:54:53,896 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-GATEWAY:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-GATEWAY\pom.xml.
+2020-08-22 18:54:55,545 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/2.2.4.RELEASE/spring-cloud-starter-gateway-2.2.4.RELEASE.pom
+2020-08-22 18:54:55,729 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/2.2.4.RELEASE/spring-cloud-starter-gateway-2.2.4.RELEASE.pom
+2020-08-22 18:54:55,841 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway/2.2.4.RELEASE/spring-cloud-gateway-2.2.4.RELEASE.pom
+2020-08-22 18:54:55,941 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway/2.2.4.RELEASE/spring-cloud-gateway-2.2.4.RELEASE.pom
+2020-08-22 18:54:56,052 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-core/2.2.4.RELEASE/spring-cloud-gateway-core-2.2.4.RELEASE.pom
+2020-08-22 18:54:56,172 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-core/2.2.4.RELEASE/spring-cloud-gateway-core-2.2.4.RELEASE.pom
+2020-08-22 18:54:56,456 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.3.3.RELEASE/spring-boot-starter-webflux-2.3.3.RELEASE.pom
+2020-08-22 18:54:56,564 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.3.3.RELEASE/spring-boot-starter-webflux-2.3.3.RELEASE.pom
+2020-08-22 18:54:56,728 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.3.3.RELEASE/spring-boot-starter-reactor-netty-2.3.3.RELEASE.pom
+2020-08-22 18:54:56,840 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.3.3.RELEASE/spring-boot-starter-reactor-netty-2.3.3.RELEASE.pom
+2020-08-22 18:54:56,975 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty/0.9.11.RELEASE/reactor-netty-0.9.11.RELEASE.pom
+2020-08-22 18:54:57,091 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty/0.9.11.RELEASE/reactor-netty-0.9.11.RELEASE.pom
+2020-08-22 18:54:57,211 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.51.Final/netty-codec-http-4.1.51.Final.pom
+2020-08-22 18:54:57,319 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.51.Final/netty-codec-http-4.1.51.Final.pom
+2020-08-22 18:54:57,443 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.51.Final/netty-parent-4.1.51.Final.pom
+2020-08-22 18:54:57,860 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.51.Final/netty-parent-4.1.51.Final.pom
+2020-08-22 18:54:57,992 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.51.Final/netty-common-4.1.51.Final.pom
+2020-08-22 18:54:58,116 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.51.Final/netty-common-4.1.51.Final.pom
+2020-08-22 18:54:58,236 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.51.Final/netty-buffer-4.1.51.Final.pom
+2020-08-22 18:54:58,340 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.51.Final/netty-buffer-4.1.51.Final.pom
+2020-08-22 18:54:58,468 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.51.Final/netty-transport-4.1.51.Final.pom
+2020-08-22 18:54:58,570 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.51.Final/netty-transport-4.1.51.Final.pom
+2020-08-22 18:54:58,686 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.51.Final/netty-resolver-4.1.51.Final.pom
+2020-08-22 18:54:58,790 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.51.Final/netty-resolver-4.1.51.Final.pom
+2020-08-22 18:54:58,914 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.51.Final/netty-codec-4.1.51.Final.pom
+2020-08-22 18:54:59,018 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.51.Final/netty-codec-4.1.51.Final.pom
+2020-08-22 18:54:59,138 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.51.Final/netty-handler-4.1.51.Final.pom
+2020-08-22 18:54:59,242 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.51.Final/netty-handler-4.1.51.Final.pom
+2020-08-22 18:54:59,366 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.51.Final/netty-codec-http2-4.1.51.Final.pom
+2020-08-22 18:54:59,489 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.51.Final/netty-codec-http2-4.1.51.Final.pom
+2020-08-22 18:54:59,635 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.51.Final/netty-handler-proxy-4.1.51.Final.pom
+2020-08-22 18:54:59,745 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.51.Final/netty-handler-proxy-4.1.51.Final.pom
+2020-08-22 18:54:59,941 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.51.Final/netty-codec-socks-4.1.51.Final.pom
+2020-08-22 18:55:00,045 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.51.Final/netty-codec-socks-4.1.51.Final.pom
+2020-08-22 18:55:00,165 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.51.Final/netty-transport-native-epoll-4.1.51.Final.pom
+2020-08-22 18:55:00,305 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.51.Final/netty-transport-native-epoll-4.1.51.Final.pom
+2020-08-22 18:55:00,431 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.51.Final/netty-transport-native-unix-common-4.1.51.Final.pom
+2020-08-22 18:55:00,571 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.51.Final/netty-transport-native-unix-common-4.1.51.Final.pom
+2020-08-22 18:55:00,695 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.2.8.RELEASE/spring-webflux-5.2.8.RELEASE.pom
+2020-08-22 18:55:00,799 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.2.8.RELEASE/spring-webflux-5.2.8.RELEASE.pom
+2020-08-22 18:55:02,578 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-core/2.2.4.RELEASE/spring-cloud-gateway-core-2.2.4.RELEASE.jar
+2020-08-22 18:55:02,970 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/2.2.4.RELEASE/spring-cloud-starter-gateway-2.2.4.RELEASE.jar
+2020-08-22 18:55:02,990 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.3.3.RELEASE/spring-boot-starter-reactor-netty-2.3.3.RELEASE.jar
+2020-08-22 18:55:03,018 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.3.3.RELEASE/spring-boot-starter-webflux-2.3.3.RELEASE.jar
+2020-08-22 18:55:03,062 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty/0.9.11.RELEASE/reactor-netty-0.9.11.RELEASE.jar
+2020-08-22 18:55:03,190 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.3.3.RELEASE/spring-boot-starter-reactor-netty-2.3.3.RELEASE.jar
+2020-08-22 18:55:03,190 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/2.2.4.RELEASE/spring-cloud-starter-gateway-2.2.4.RELEASE.jar
+2020-08-22 18:55:03,198 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.3.3.RELEASE/spring-boot-starter-webflux-2.3.3.RELEASE.jar
+2020-08-22 18:55:03,380 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.51.Final/netty-common-4.1.51.Final.jar
+2020-08-22 18:55:03,410 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.51.Final/netty-codec-http-4.1.51.Final.jar
+2020-08-22 18:55:03,442 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.51.Final/netty-buffer-4.1.51.Final.jar
+2020-08-22 18:55:05,385 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-core/2.2.4.RELEASE/spring-cloud-gateway-core-2.2.4.RELEASE.jar
+2020-08-22 18:55:05,639 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.51.Final/netty-transport-4.1.51.Final.jar
+2020-08-22 18:55:07,828 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty/0.9.11.RELEASE/reactor-netty-0.9.11.RELEASE.jar
+2020-08-22 18:55:08,084 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.51.Final/netty-codec-4.1.51.Final.jar
+2020-08-22 18:55:09,116 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.51.Final/netty-buffer-4.1.51.Final.jar
+2020-08-22 18:55:09,360 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.51.Final/netty-codec-http2-4.1.51.Final.jar
+2020-08-22 18:55:10,020 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.51.Final/netty-common-4.1.51.Final.jar
+2020-08-22 18:55:10,134 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.51.Final/netty-transport-4.1.51.Final.jar
+2020-08-22 18:55:10,170 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.51.Final/netty-handler-4.1.51.Final.jar
+2020-08-22 18:55:10,230 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.51.Final/netty-resolver-4.1.51.Final.jar
+2020-08-22 18:55:10,274 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.51.Final/netty-codec-4.1.51.Final.jar
+2020-08-22 18:55:10,414 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.51.Final/netty-handler-proxy-4.1.51.Final.jar
+2020-08-22 18:55:10,606 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.51.Final/netty-resolver-4.1.51.Final.jar
+2020-08-22 18:55:10,686 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.51.Final/netty-handler-proxy-4.1.51.Final.jar
+2020-08-22 18:55:10,794 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.51.Final/netty-codec-socks-4.1.51.Final.jar
+2020-08-22 18:55:10,952 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.51.Final/netty-transport-native-epoll-4.1.51.Final-linux-x86_64.jar
+2020-08-22 18:55:12,144 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.51.Final/netty-codec-socks-4.1.51.Final.jar
+2020-08-22 18:55:12,360 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.51.Final/netty-transport-native-unix-common-4.1.51.Final.jar
+2020-08-22 18:55:12,516 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.51.Final/netty-transport-native-epoll-4.1.51.Final-linux-x86_64.jar
+2020-08-22 18:55:12,544 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.51.Final/netty-codec-http-4.1.51.Final.jar
+2020-08-22 18:55:12,688 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.2.8.RELEASE/spring-webflux-5.2.8.RELEASE.jar
+2020-08-22 18:55:12,744 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.51.Final/netty-transport-native-unix-common-4.1.51.Final.jar
+2020-08-22 18:55:13,501 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.51.Final/netty-codec-http2-4.1.51.Final.jar
+2020-08-22 18:55:13,649 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.51.Final/netty-handler-4.1.51.Final.jar
+2020-08-22 18:55:15,626 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.2.8.RELEASE/spring-webflux-5.2.8.RELEASE.jar
+2020-08-22 18:55:22,446 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-GATEWAY/src/main/java
+2020-08-22 18:55:22,446 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-GATEWAY/src/main/resources
+2020-08-22 18:55:22,486 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-GATEWAY/src/main/resources
+2020-08-22 18:55:22,522 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-GATEWAY/src/test/java
+2020-08-22 18:55:25,144 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/2.2.4.RELEASE/spring-cloud-starter-gateway-2.2.4.RELEASE-sources.jar
+2020-08-22 18:55:25,172 [Worker-16: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-gateway:2.2.4.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-gateway:jar:sources:2.2.4.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-08-22 18:55:25,654 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-core/2.2.4.RELEASE/spring-cloud-gateway-core-2.2.4.RELEASE-sources.jar
+2020-08-22 18:55:26,096 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 35 sec
+2020-08-22 18:55:26,110 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-22 18:55:26,392 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-core/2.2.4.RELEASE/spring-cloud-gateway-core-2.2.4.RELEASE-sources.jar
+2020-08-22 18:55:26,558 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-gateway-core:2.2.4.RELEASE
+2020-08-22 18:55:27,030 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.application.api:SERVICE-GATEWAY:0.0.1-SNAPSHOT @ C:\Users\MYC\Desktop\Formation-backend\SERVICE-GATEWAY\pom.xml.
+2020-08-22 18:55:29,085 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.3.3.RELEASE/spring-boot-starter-webflux-2.3.3.RELEASE-sources.jar
+2020-08-22 18:55:29,185 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.3.3.RELEASE/spring-boot-starter-webflux-2.3.3.RELEASE-sources.jar
+2020-08-22 18:55:29,277 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webflux:2.3.3.RELEASE
+2020-08-22 18:55:31,200 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-GATEWAY/src/main/java
+2020-08-22 18:55:31,204 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-GATEWAY/src/main/resources
+2020-08-22 18:55:31,208 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SERVICE-GATEWAY/src/main/resources
+2020-08-22 18:55:31,212 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SERVICE-GATEWAY/src/test/java
+2020-08-22 18:55:31,532 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.3.3.RELEASE/spring-boot-starter-reactor-netty-2.3.3.RELEASE-sources.jar
+2020-08-22 18:55:31,636 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.3.3.RELEASE/spring-boot-starter-reactor-netty-2.3.3.RELEASE-sources.jar
+2020-08-22 18:55:31,736 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:2.3.3.RELEASE
+2020-08-22 18:55:32,140 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty/0.9.11.RELEASE/reactor-netty-0.9.11.RELEASE-sources.jar
+2020-08-22 18:55:33,000 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty/0.9.11.RELEASE/reactor-netty-0.9.11.RELEASE-sources.jar
+2020-08-22 18:55:33,284 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty:0.9.11.RELEASE
+2020-08-22 18:55:33,712 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2020-08-22 18:55:33,724 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.51.Final/netty-codec-http-4.1.51.Final-sources.jar
+2020-08-22 18:55:34,847 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.51.Final/netty-codec-http-4.1.51.Final-sources.jar
+2020-08-22 18:55:34,963 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.51.Final
+2020-08-22 18:55:35,351 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.51.Final/netty-common-4.1.51.Final-sources.jar
+2020-08-22 18:55:36,904 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.51.Final/netty-common-4.1.51.Final-sources.jar
+2020-08-22 18:55:37,084 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.51.Final
+2020-08-22 18:55:37,600 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.51.Final/netty-buffer-4.1.51.Final-sources.jar
+2020-08-22 18:55:38,212 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.51.Final/netty-buffer-4.1.51.Final-sources.jar
+2020-08-22 18:55:38,398 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.51.Final
+2020-08-22 18:55:38,822 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.51.Final/netty-transport-4.1.51.Final-sources.jar
+2020-08-22 18:55:39,917 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.51.Final/netty-transport-4.1.51.Final-sources.jar
+2020-08-22 18:55:40,125 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.51.Final
+2020-08-22 18:55:40,717 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.51.Final/netty-codec-4.1.51.Final-sources.jar
+2020-08-22 18:55:41,555 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.51.Final/netty-codec-4.1.51.Final-sources.jar
+2020-08-22 18:55:41,771 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.51.Final
+2020-08-22 18:55:42,175 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.51.Final/netty-codec-http2-4.1.51.Final-sources.jar
+2020-08-22 18:55:43,229 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.51.Final/netty-codec-http2-4.1.51.Final-sources.jar
+2020-08-22 18:55:43,417 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.51.Final
+2020-08-22 18:55:43,897 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.51.Final/netty-handler-4.1.51.Final-sources.jar
+2020-08-22 18:55:44,880 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.51.Final/netty-handler-4.1.51.Final-sources.jar
+2020-08-22 18:55:45,048 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.51.Final
+2020-08-22 18:55:45,516 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.51.Final/netty-resolver-4.1.51.Final-sources.jar
+2020-08-22 18:55:45,766 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.51.Final/netty-resolver-4.1.51.Final-sources.jar
+2020-08-22 18:55:45,882 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.51.Final
+2020-08-22 18:55:46,287 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.51.Final/netty-handler-proxy-4.1.51.Final-sources.jar
+2020-08-22 18:55:46,463 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.51.Final/netty-handler-proxy-4.1.51.Final-sources.jar
+2020-08-22 18:55:46,615 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.51.Final
+2020-08-22 18:55:47,059 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.51.Final/netty-codec-socks-4.1.51.Final-sources.jar
+2020-08-22 18:55:47,431 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.51.Final/netty-codec-socks-4.1.51.Final-sources.jar
+2020-08-22 18:55:47,619 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.51.Final
+2020-08-22 18:55:48,051 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.51.Final/netty-transport-native-epoll-4.1.51.Final-sources.jar
+2020-08-22 18:55:48,487 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.51.Final/netty-transport-native-epoll-4.1.51.Final-sources.jar
+2020-08-22 18:55:48,619 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.51.Final:linux-x86_64
+2020-08-22 18:55:49,043 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.51.Final/netty-transport-native-unix-common-4.1.51.Final-sources.jar
+2020-08-22 18:55:49,389 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.51.Final/netty-transport-native-unix-common-4.1.51.Final-sources.jar
+2020-08-22 18:55:49,568 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.51.Final
+2020-08-22 18:55:50,122 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.2.8.RELEASE/spring-webflux-5.2.8.RELEASE-sources.jar
+2020-08-22 18:55:51,730 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.2.8.RELEASE/spring-webflux-5.2.8.RELEASE-sources.jar
+2020-08-22 18:55:51,934 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:5.2.8.RELEASE
+2020-08-22 18:55:52,400 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/2.2.4.RELEASE/spring-cloud-starter-gateway-2.2.4.RELEASE-javadoc.jar
+2020-08-22 18:55:52,532 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/2.2.4.RELEASE/spring-cloud-starter-gateway-2.2.4.RELEASE-javadoc.jar
+2020-08-22 18:55:52,764 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-starter-gateway:2.2.4.RELEASE
+2020-08-22 18:55:52,780 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-gateway-core:2.2.4.RELEASE
+2020-08-22 18:55:52,796 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webflux:2.3.3.RELEASE
+2020-08-22 18:55:52,812 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:2.3.3.RELEASE
+2020-08-22 18:55:52,828 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty:0.9.11.RELEASE
+2020-08-22 18:55:52,840 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.51.Final
+2020-08-22 18:55:52,856 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.51.Final
+2020-08-22 18:55:52,876 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.51.Final
+2020-08-22 18:55:52,892 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.51.Final
+2020-08-22 18:55:52,908 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.51.Final
+2020-08-22 18:55:52,928 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.51.Final
+2020-08-22 18:55:52,944 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.51.Final
+2020-08-22 18:55:52,964 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.51.Final
+2020-08-22 18:55:52,980 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.51.Final
+2020-08-22 18:55:52,996 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.51.Final
+2020-08-22 18:55:53,012 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.51.Final:linux-x86_64
+2020-08-22 18:55:53,028 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.51.Final
+2020-08-22 18:55:53,040 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:5.2.8.RELEASE
+2020-08-22 18:55:53,060 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:2.3.3.RELEASE
+2020-08-22 18:55:53,072 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty:0.9.11.RELEASE
+2020-08-22 18:55:53,084 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.51.Final
+2020-08-22 18:55:53,096 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.51.Final
+2020-08-22 18:55:53,108 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.51.Final
+2020-08-22 18:55:53,120 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.51.Final
+2020-08-22 18:55:53,132 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.51.Final
+2020-08-22 18:55:53,144 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.51.Final
+2020-08-22 18:55:53,160 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.51.Final
+2020-08-22 18:55:53,172 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.51.Final
+2020-08-22 18:55:53,184 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.51.Final
+2020-08-22 18:55:53,200 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.51.Final
+2020-08-22 18:55:53,212 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.51.Final:linux-x86_64
+2020-08-22 18:55:53,224 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.51.Final
+2020-08-22 18:55:53,240 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:5.2.8.RELEASE
+2020-08-22 18:55:53,264 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:2.3.3.RELEASE
+2020-08-22 18:55:53,276 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty:0.9.11.RELEASE
+2020-08-22 18:55:53,288 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.51.Final
+2020-08-22 18:55:53,304 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.51.Final
+2020-08-22 18:55:53,316 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.51.Final
+2020-08-22 18:55:53,328 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.51.Final
+2020-08-22 18:55:53,340 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.51.Final
+2020-08-22 18:55:53,352 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.51.Final
+2020-08-22 18:55:53,364 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.51.Final
+2020-08-22 18:55:53,380 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.51.Final
+2020-08-22 18:55:53,392 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.51.Final
+2020-08-22 18:55:53,404 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.51.Final
+2020-08-22 18:55:53,416 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.51.Final:linux-x86_64
+2020-08-22 18:55:53,428 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.51.Final
+2020-08-22 18:55:53,440 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:5.2.8.RELEASE
+2020-08-22 19:13:23,595 [Worker-25: Launching ServiceGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 19:13:23,599 [Worker-25: Launching ServiceGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-22 19:13:23,599 [Worker-25: Launching ServiceGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-22 19:13:23,615 [Worker-25: Launching ServiceGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-22 19:13:23,615 [Worker-25: Launching ServiceGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MYC\Desktop\Formation-backend\SERVICE-GATEWAY\src\test\resources

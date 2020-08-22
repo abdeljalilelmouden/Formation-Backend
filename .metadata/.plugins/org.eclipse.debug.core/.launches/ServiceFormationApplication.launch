@@ -9,7 +9,8 @@
 <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
 <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.application.api.ServiceFormationApplication"/>
-<stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value=""/>
+<stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="SERVICE-FORMATION"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--server.port=87"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SERVICE-FORMATION"/>
 <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 </launchConfiguration>
