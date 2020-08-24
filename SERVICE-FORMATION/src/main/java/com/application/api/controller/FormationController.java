@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.application.api.dto.FormationDto;
 import com.application.api.entity.FormationEntity;
-import com.application.api.service.impl.IFormationService;
+import com.application.api.service.impl.FormationService;
  
 
 /**
@@ -34,7 +34,7 @@ public class FormationController {
 	private static final Logger logger = LogManager.getLogger(FormationController.class);	
 	
 	@Autowired
-	private IFormationService formationService;
+	private FormationService formationService;
 	
 	
 	/**
